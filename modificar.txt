@@ -1,0 +1,5 @@
+-- MODIFICAR --
+/core -> db_abstract_model.php
+
+/usuarios -> model.php 
+          -> view.php

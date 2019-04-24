@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*)$ controller.php?PATH_INFO=$1 [L,QSA]
